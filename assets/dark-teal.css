@@ -1,7 +1,7 @@
 :root{--bg:#061719;--fg:#edf6f3;--muted:#a1b9b6;--orange:#5dd1bf;--line:#244244;--card:#0c2427}
 html,body{background:var(--bg);color:var(--fg)}
 ::selection{background:#5dd1bf;color:#052022}
-.hero-screen{background-color:#081f22;background-image:linear-gradient(105deg,rgba(3,24,27,.94),rgba(6,35,37,.79)),url('/assets/hero-texture.webp')}
+.hero-screen{background-color:#081f22;background-image:linear-gradient(105deg,rgba(3,24,27,.94),rgba(6,35,37,.79)),url('assets/hero-texture.webp')}
 .hero-screen:before{background:linear-gradient(90deg,rgba(2,19,22,.26),transparent 75%)}
 .hero-screen .nav{border-bottom:1px solid rgba(125,194,186,.12)}
 .hero-screen .menu{gap:26px}
